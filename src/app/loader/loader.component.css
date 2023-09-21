@@ -1,0 +1,16 @@
+/* Style for the container div */
+.loader-container {
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    background: rgba(0, 0, 0, 0.63);
+  }
+  
+  /* Style for the button */
+  .btn-primary {
+    /* Add any additional styling you want for the button here */
+  }
+  
